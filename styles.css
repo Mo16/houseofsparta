@@ -1,4 +1,9 @@
-.card-image{
+.card-image {
     max-width: 10%;
-    
+
+}
+
+
+body, .container-wrap{
+    background-color: black !important;
 }
